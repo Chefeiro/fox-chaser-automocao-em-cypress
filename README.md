@@ -40,21 +40,20 @@ Após a execução do comando npx cypress open, caso algum erro seja apresentado
 
 ## ❄️ Colaboradores
 
- 🪐 **Jonas Silva** 🪐
+ ### 🪐Jonas Silva🪐
 
-<QA Enginner | Cypress Automation>
+> QA Enginner | Cypress Automation
 
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ <a href="https://www.linkedin.com/in/jonas-ferreira-a78200232/"><<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
- [LinkdIn](https://www.linkedin.com/in/jonas-ferreira-a78200232/)
 
- 🦊 **Pietro Crestani** 🦊
 
- <Owner FoxChaser | Developer Full Stack>
+ ### 🦊Pietro Crestani🦊
 
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ > Owner FoxChaser | Developer Full Stack
 
- [LinkdIn](https://www.linkedin.com/in/pietro-crestani-b1515b21b)
+ <a href="https://www.linkedin.com/in/pietro-crestani-b1515b21b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+
 
 ## 📝 Licença
 
