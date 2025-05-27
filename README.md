@@ -34,6 +34,15 @@ Para usar <Protótipo Fox Chaser Automoção em Cypress>, siga estas etapas:
 
 ```
 
+# !!!! AVISO !!!!
+
+⚠️ Atenção!
+Por favor, não altere o usuário principal da plataforma: "usuarioteste".
+Ele é essencial para que a automação continue funcionando corretamente.
+
+🔓 Lembrando que esse projeto é livre e aberto, feito pra todo mundo poder usar e testar à vontade! 🙌
+
+
 ## ❌ Possiveis ERROS
 
 Após a execução do comando npx cypress open, caso algum erro seja apresentado após retestar a automação, reinicie o Cypress e execute-o novamente.
