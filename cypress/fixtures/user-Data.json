@@ -1,0 +1,17 @@
+{
+    "userSucess": {    
+        "email": "usuariodeteste@teste.com",
+        "password": "usuariodeteste"
+},
+    "userFail": {
+        "username": "teste",
+        "username1Caracter": "a",
+        "username50MoreCaracter": "123456789012345678901234567890123456789012345678901",
+        "emailwithoutOne": "emaildetestetest.com",
+        "emailwithoutTwo": "emaildeteste@testcom",
+        "email": "emaildeteste@test.com",
+        "password5Caracter": "12345",
+        "password": "12345678"
+  }
+
+}
