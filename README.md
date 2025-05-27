@@ -44,7 +44,7 @@ Após a execução do comando npx cypress open, caso algum erro seja apresentado
 
 > QA Enginner | Cypress Automation
 
- <a href="https://www.linkedin.com/in/jonas-ferreira-a78200232/"><<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ <a href="https://www.linkedin.com/in/jonas-ferreira-a78200232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 
 
